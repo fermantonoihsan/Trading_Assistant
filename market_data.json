@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-06-23 11:50:59",
+  "generated_at": "2026-06-23 05:20:31",
   "market": {
     "ihsg": {
-      "price": "6049",
-      "change": "-1.11",
+      "price": "6038",
+      "change": "-1.29",
       "trend": "bearish"
     },
     "regional": [
       {
         "name": "Nikkei",
-        "change": "-1.69"
+        "change": "-1.86"
       },
       {
         "name": "HSI",
-        "change": "-1.13"
+        "change": "-1.37"
       },
       {
         "name": "STI",
-        "change": "0.25"
+        "change": "0.03"
       },
       {
         "name": "S&P Fut",
-        "change": "-0.64"
+        "change": "-0.75"
       }
     ],
     "sectorRotation": [
       {
         "name": "Basic-Ind",
-        "change": "-1.49",
+        "change": "-1.46",
         "stocks": [
           {
             "ticker": "ANTM",
-            "change": "-3.38"
+            "change": "-4.39"
           },
           {
             "ticker": "BRMS",
-            "change": "-2.36"
+            "change": "-1.57"
           },
           {
             "ticker": "BRPT",
-            "change": "1.26"
+            "change": "1.57"
           }
         ]
       },
@@ -63,11 +63,11 @@
       },
       {
         "name": "Energy",
-        "change": "-0.92",
+        "change": "-0.96",
         "stocks": [
           {
             "ticker": "ADRO",
-            "change": "-0.87"
+            "change": "-1.31"
           },
           {
             "ticker": "BUMI",
@@ -75,13 +75,13 @@
           },
           {
             "ticker": "PGAS",
-            "change": "-1.28"
+            "change": "-0.96"
           }
         ]
       },
       {
         "name": "Health",
-        "change": "4.06",
+        "change": "4.99",
         "stocks": [
           {
             "ticker": "KLBF",
@@ -89,21 +89,21 @@
           },
           {
             "ticker": "SIDO",
-            "change": "-0.53"
+            "change": "0.0"
           },
           {
             "ticker": "KAEF",
-            "change": "3.15"
+            "change": "5.41"
           }
         ]
       },
       {
         "name": "Finance",
-        "change": "-1.05",
+        "change": "-0.84",
         "stocks": [
           {
             "ticker": "BBCA",
-            "change": "-2.41"
+            "change": "-2.01"
           },
           {
             "ticker": "BBRI",
@@ -111,13 +111,13 @@
           },
           {
             "ticker": "BMRI",
-            "change": "-2.13"
+            "change": "-1.9"
           }
         ]
       },
       {
         "name": "Industrial",
-        "change": "-0.63",
+        "change": "-0.69",
         "stocks": [
           {
             "ticker": "ASII",
@@ -125,17 +125,17 @@
           },
           {
             "ticker": "UNTR",
-            "change": "0.22"
+            "change": "0.34"
           },
           {
             "ticker": "IMPC",
-            "change": "-1.25"
+            "change": "-1.56"
           }
         ]
       },
       {
         "name": "Infrastruktur",
-        "change": "0.42",
+        "change": "0.67",
         "stocks": [
           {
             "ticker": "TLKM",
@@ -147,17 +147,17 @@
           },
           {
             "ticker": "CDIA",
-            "change": "0.75"
+            "change": "1.49"
           }
         ]
       },
       {
         "name": "Transport",
-        "change": "-0.82",
+        "change": "-0.42",
         "stocks": [
           {
             "ticker": "PJHB",
-            "change": "-1.78"
+            "change": "-0.59"
           },
           {
             "ticker": "GIAA",
@@ -171,7 +171,7 @@
       },
       {
         "name": "Technology",
-        "change": "-0.1",
+        "change": "-0.71",
         "stocks": [
           {
             "ticker": "GOTO",
@@ -183,35 +183,35 @@
           },
           {
             "ticker": "EMTK",
-            "change": "0.0"
+            "change": "-1.82"
           }
         ]
       },
       {
         "name": "Non-Cyclical",
-        "change": "-0.57",
+        "change": "-0.46",
         "stocks": [
           {
             "ticker": "UNVR",
-            "change": "-2.06"
+            "change": "-1.76"
           },
           {
             "ticker": "INDF",
-            "change": "0.74"
+            "change": "0.37"
           },
           {
             "ticker": "ICBP",
-            "change": "-0.38"
+            "change": "0.0"
           }
         ]
       },
       {
         "name": "Property",
-        "change": "2.73",
+        "change": "3.03",
         "stocks": [
           {
             "ticker": "CTRA",
-            "change": "0.0"
+            "change": "0.92"
           },
           {
             "ticker": "PWON",
@@ -227,7 +227,7 @@
   },
   "extras": {
     "usdIdr": 17860,
-    "gold": 4156.0,
+    "gold": 4147.0,
     "oil": 74.0
   }
 }
