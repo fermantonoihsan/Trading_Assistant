@@ -1,0 +1,54 @@
+name: Update Market Data
+
+# Robot ini menjalankan ihsg_market.py + idx_scraper.py pada jadwal,
+# meng-generate market_data.json & stock_data.json, lalu commit ke repo.
+# App React (index.html) otomatis fetch kedua file itu saat halaman dibuka.
+
+on:
+  schedule:
+    # 01:00 UTC = 08:00 WIB, Senin–Jumat (sebelum bursa buka 09:00 WIB).
+    # Catatan: cron pakai UTC; libur bursa nasional TIDAK otomatis dilewati.
+    - cron: '0 1 * * 1-5'
+  # Tombol "Run workflow" manual di tab Actions.
+  workflow_dispatch:
+
+# Ganti daftar saham di sini (ganti "popup pilih saham" versi terminal).
+env:
+  WATCHLIST: "BBCA BBRI BMRI TLKM ASII ADRO ANTM"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install yfinance pandas openpyxl
+
+      - name: Scrape kondisi market (IHSG)
+        run: python ihsg_market.py
+
+      - name: Scrape saham watchlist
+        # idx_scraper menerima kode saham sebagai argumen → non-interaktif.
+        run: python idx_scraper.py $WATCHLIST
+
+      - name: Commit JSON terbaru
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add market_data.json stock_data.json
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan data."
+          else
+            git commit -m "data: update market & stock JSON ($(date -u +%Y-%m-%d))"
+            git push
+          fi

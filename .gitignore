@@ -1,0 +1,17 @@
+# Library skill pihak ketiga (punya .git sendiri) — jangan ikut repo app
+claude-skills/
+claude-skills.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output scraper bertimestamp (di-generate ulang, bukan source)
+idx_history_*.xlsx
+idx_ohlcv_*.xlsx
+*_2026????.csv
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
