@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-29 05:49:58",
+  "generated_at": "2026-06-30 05:02:16",
   "candidates": [
     {
       "code": "BBCA",
       "name": "PT Bank Central Asia Tbk",
-      "price": "6025",
-      "changePct": -2.43,
-      "volume": 85928500,
-      "volMultiplier": 0.33,
+      "price": "5675",
+      "changePct": -4.22,
+      "volume": 210858800,
+      "volMultiplier": 0.81,
       "setup": "",
       "trend": "downtrend",
-      "prevClose": 6175.0,
-      "araPrice": 7400,
-      "arbPrice": 5750,
+      "prevClose": 5925.0,
+      "araPrice": 7100,
+      "arbPrice": 5500,
       "forecast": {
         "label": "Sideways",
         "color": "#94a3b8",
@@ -22,25 +22,25 @@
       "consensusScore": 97.9,
       "keystats": {
         "sector": "Financial Services",
-        "marketCap": 740329351282688,
+        "marketCap": 697322635788288,
         "roe": 0.22972,
         "der": null,
         "netMargin": 0.53462005,
-        "divYield": 5.77
+        "divYield": 6.01
       }
     },
     {
       "code": "BBRI",
       "name": "PT Bank Rakyat Indonesia (Persero) Tbk",
-      "price": "2840",
-      "changePct": -1.05,
-      "volume": 69785000,
-      "volMultiplier": 0.21,
+      "price": "2790",
+      "changePct": -1.76,
+      "volume": 134157600,
+      "volMultiplier": 0.4,
       "setup": "",
       "trend": "downtrend",
-      "prevClose": 2870.0,
-      "araPrice": 3600,
-      "arbPrice": 2675,
+      "prevClose": 2840.0,
+      "araPrice": 3550,
+      "arbPrice": 2650,
       "forecast": {
         "label": "Sideways",
         "color": "#94a3b8",
@@ -50,25 +50,25 @@
       "consensusScore": 84.1,
       "keystats": {
         "sector": "Financial Services",
-        "marketCap": 427632780902400,
+        "marketCap": 420104038776832,
         "roe": 0.18135999,
         "der": null,
         "netMargin": 0.40230998,
-        "divYield": 14.56
+        "divYield": 14.72
       }
     },
     {
       "code": "BMRI",
       "name": "PT Bank Mandiri (Persero) Tbk",
-      "price": "3950",
-      "changePct": -1.0,
-      "volume": 57626500,
-      "volMultiplier": 0.26,
+      "price": "3880",
+      "changePct": -1.52,
+      "volume": 87484000,
+      "volMultiplier": 0.39,
       "setup": "",
       "trend": "downtrend",
-      "prevClose": 3990.0,
-      "araPrice": 5000,
-      "arbPrice": 3700,
+      "prevClose": 3940.0,
+      "araPrice": 4925,
+      "arbPrice": 3675,
       "forecast": {
         "label": "Sideways",
         "color": "#94a3b8",
@@ -78,25 +78,25 @@
       "consensusScore": 82.6,
       "keystats": {
         "sector": "Financial Services",
-        "marketCap": 368666671579136,
+        "marketCap": 362133321678848,
         "roe": 0.21040002,
         "der": null,
         "netMargin": 0.40245,
-        "divYield": 11.95
+        "divYield": 12.11
       }
     },
     {
       "code": "TLKM",
       "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
-      "price": "2440",
-      "changePct": -1.61,
-      "volume": 43048400,
-      "volMultiplier": 0.28,
+      "price": "2380",
+      "changePct": -1.24,
+      "volume": 90307800,
+      "volMultiplier": 0.58,
       "setup": "",
       "trend": "downtrend",
-      "prevClose": 2480.0,
-      "araPrice": 3100,
-      "arbPrice": 2300,
+      "prevClose": 2410.0,
+      "araPrice": 3000,
+      "arbPrice": 2250,
       "forecast": {
         "label": "Sideways",
         "color": "#94a3b8",
@@ -106,25 +106,25 @@
       "consensusScore": 84.1,
       "keystats": {
         "sector": "Communication Services",
-        "marketCap": 240826835795968,
+        "marketCap": 234904864423936,
         "roe": 0.14214,
         "der": 44.115,
         "netMargin": 0.11276,
-        "divYield": 9.0
+        "divYield": 9.26
       }
     },
     {
       "code": "ASII",
       "name": "PT Astra International Tbk",
-      "price": "4710",
-      "changePct": -1.05,
-      "volume": 10395000,
-      "volMultiplier": 0.17,
+      "price": "4520",
+      "changePct": -4.03,
+      "volume": 35881000,
+      "volMultiplier": 0.58,
       "setup": "",
       "trend": "downtrend",
-      "prevClose": 4760.0,
-      "araPrice": 5950,
-      "arbPrice": 4425,
+      "prevClose": 4710.0,
+      "araPrice": 5900,
+      "arbPrice": 4375,
       "forecast": {
         "label": "Sideways",
         "color": "#94a3b8",
@@ -134,25 +134,25 @@
       "consensusScore": 90.9,
       "keystats": {
         "sector": "Industrials",
-        "marketCap": 188700579332096,
+        "marketCap": 181088454443008,
         "roe": 0.13245,
         "der": 39.859,
         "netMargin": 0.099429995,
-        "divYield": 8.19
+        "divYield": 8.28
       }
     },
     {
       "code": "ADRO",
       "name": "PT Alamtri Resources Indonesia Tbk",
       "price": "2260",
-      "changePct": 0.44,
-      "volume": 4329400,
-      "volMultiplier": 0.06,
+      "changePct": -0.88,
+      "volume": 17345600,
+      "volMultiplier": 0.25,
       "setup": "",
-      "trend": "uptrend",
-      "prevClose": 2250.0,
-      "araPrice": 2800,
-      "arbPrice": 2100,
+      "trend": "downtrend",
+      "prevClose": 2280.0,
+      "araPrice": 2850,
+      "arbPrice": 2125,
       "forecast": {
         "label": "Sideways",
         "color": "#94a3b8",
@@ -166,19 +166,19 @@
         "roe": 0.10256,
         "der": 19.536,
         "netMargin": 0.2543,
-        "divYield": 10.51
+        "divYield": 10.37
       }
     },
     {
       "code": "ANTM",
       "name": "PT Antam (Persero) Tbk",
-      "price": "2740",
-      "changePct": 1.11,
-      "volume": 42694400,
-      "volMultiplier": 0.26,
+      "price": "2640",
+      "changePct": -2.94,
+      "volume": 40673500,
+      "volMultiplier": 0.25,
       "setup": "",
-      "trend": "uptrend",
-      "prevClose": 2710.0,
+      "trend": "downtrend",
+      "prevClose": 2720.0,
       "araPrice": 3400,
       "arbPrice": 2525,
       "forecast": {
@@ -190,18 +190,18 @@
       "consensusScore": 80.0,
       "keystats": {
         "sector": "Basic Materials",
-        "marketCap": 65844298121216,
+        "marketCap": 63441217781760,
         "roe": 0.24687,
         "der": 21.609,
         "netMargin": 0.09661999,
-        "divYield": 7.75
+        "divYield": 7.72
       }
     }
   ],
   "valuation": {
     "selectedStock": "BBCA",
-    "currentPrice": "6025",
-    "eps": "471.15",
+    "currentPrice": "5675",
+    "eps": "471.04",
     "bvps": "2108.89",
     "peBand": {
       "min": "10.3",
@@ -212,8 +212,8 @@
     },
     "pbvBand": {
       "min": "2.3",
-      "sd_minus1": "3.07",
-      "median": "3.58",
+      "sd_minus1": "3.06",
+      "median": "3.57",
       "sd_plus1": "3.88",
       "max": "4.34"
     }
@@ -227,26 +227,26 @@
     },
     "targetPrice": {
       "low": "5500",
-      "mean": "8625",
+      "mean": "8420",
       "high": "10900"
     },
     "epsEstimate": {
-      "current": "487.67",
-      "next": "530.84",
-      "growth": "8.9"
+      "current": "487.34",
+      "next": "529.85",
+      "growth": "8.7"
     },
     "revenueEstimate": {
       "current": "118.5",
-      "next": "128.6",
-      "growth": "8.5"
+      "next": "128.5",
+      "growth": "8.4"
     },
     "nextEarningsDate": "2026-07-22"
   },
   "fundamentals_all": {
     "BBCA": {
       "selectedStock": "BBCA",
-      "currentPrice": "6025",
-      "eps": "471.15",
+      "currentPrice": "5675",
+      "eps": "471.04",
       "bvps": "2108.89",
       "peBand": {
         "min": "10.3",
@@ -257,16 +257,16 @@
       },
       "pbvBand": {
         "min": "2.3",
-        "sd_minus1": "3.07",
-        "median": "3.58",
+        "sd_minus1": "3.06",
+        "median": "3.57",
         "sd_plus1": "3.88",
         "max": "4.34"
       }
     },
     "BBRI": {
       "selectedStock": "BBRI",
-      "currentPrice": "2840",
-      "eps": "388.89",
+      "currentPrice": "2790",
+      "eps": "389.08",
       "bvps": "2246.08",
       "peBand": {
         "min": "6.7",
@@ -285,8 +285,8 @@
     },
     "BMRI": {
       "selectedStock": "BMRI",
-      "currentPrice": "3950",
-      "eps": "626.83",
+      "currentPrice": "3880",
+      "eps": "626.85",
       "bvps": "3270.59",
       "peBand": {
         "min": "5.8",
@@ -305,19 +305,19 @@
     },
     "TLKM": {
       "selectedStock": "TLKM",
-      "currentPrice": "2440",
-      "eps": "164.42",
+      "currentPrice": "2380",
+      "eps": "164.36",
       "bvps": "1360.33",
       "peBand": {
         "min": "13.2",
-        "sd_minus1": "15.9",
+        "sd_minus1": "15.8",
         "median": "17.4",
         "sd_plus1": "19.5",
         "max": "22.2"
       },
       "pbvBand": {
         "min": "1.6",
-        "sd_minus1": "1.92",
+        "sd_minus1": "1.91",
         "median": "2.11",
         "sd_plus1": "2.36",
         "max": "2.68"
@@ -325,8 +325,8 @@
     },
     "ASII": {
       "selectedStock": "ASII",
-      "currentPrice": "4710",
-      "eps": "784.92",
+      "currentPrice": "4520",
+      "eps": "785.16",
       "bvps": "5809.86",
       "peBand": {
         "min": "5.3",
@@ -346,7 +346,7 @@
     "ADRO": {
       "selectedStock": "ADRO",
       "currentPrice": "2260",
-      "eps": "308.93",
+      "eps": "308.94",
       "bvps": "0.17",
       "peBand": {
         "min": "4.7",
@@ -357,16 +357,16 @@
       },
       "pbvBand": {
         "min": "8506.57",
-        "sd_minus1": "9101.12",
+        "sd_minus1": "9108.91",
         "median": "10131.68",
-        "sd_plus1": "13224.96",
+        "sd_plus1": "13234.2",
         "max": "15294.12"
       }
     },
     "ANTM": {
       "selectedStock": "ANTM",
-      "currentPrice": "2740",
-      "eps": "353.11",
+      "currentPrice": "2640",
+      "eps": "353.06",
       "bvps": "1616.55",
       "peBand": {
         "min": "6.7",
@@ -394,18 +394,18 @@
       },
       "targetPrice": {
         "low": "5500",
-        "mean": "8625",
+        "mean": "8420",
         "high": "10900"
       },
       "epsEstimate": {
-        "current": "487.67",
-        "next": "530.84",
-        "growth": "8.9"
+        "current": "487.34",
+        "next": "529.85",
+        "growth": "8.7"
       },
       "revenueEstimate": {
         "current": "118.5",
-        "next": "128.6",
-        "growth": "8.5"
+        "next": "128.5",
+        "growth": "8.4"
       },
       "nextEarningsDate": "2026-07-22"
     },
@@ -418,18 +418,18 @@
       },
       "targetPrice": {
         "low": "2740",
-        "mean": "3905",
+        "mean": "3796",
         "high": "4900"
       },
       "epsEstimate": {
-        "current": "389.28",
-        "next": "420.65",
-        "growth": "8.1"
+        "current": "385.48",
+        "next": "419.14",
+        "growth": "8.7"
       },
       "revenueEstimate": {
-        "current": "229.4",
-        "next": "239.6",
-        "growth": "4.4"
+        "current": "228.9",
+        "next": "239.5",
+        "growth": "4.6"
       },
       "nextEarningsDate": "2026-07-29"
     },
@@ -442,18 +442,18 @@
       },
       "targetPrice": {
         "low": "3593",
-        "mean": "5543",
+        "mean": "5499",
         "high": "6800"
       },
       "epsEstimate": {
-        "current": "622.72",
-        "next": "655.58",
-        "growth": "5.3"
+        "current": "621.6",
+        "next": "653.79",
+        "growth": "5.2"
       },
       "revenueEstimate": {
-        "current": "158.9",
-        "next": "171.7",
-        "growth": "8.1"
+        "current": "157.8",
+        "next": "169.9",
+        "growth": "7.7"
       },
       "nextEarningsDate": "2026-07-23"
     },
@@ -513,14 +513,14 @@
         "sell": "1"
       },
       "targetPrice": {
-        "low": "1500",
-        "mean": "3049",
-        "high": "4215"
+        "low": "1503",
+        "mean": "3059",
+        "high": "4223"
       },
       "epsEstimate": {
         "current": "0.02",
         "next": "0.02",
-        "growth": "-7.7"
+        "growth": "-9.9"
       },
       "revenueEstimate": {
         "current": "",
