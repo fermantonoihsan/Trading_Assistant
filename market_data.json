@@ -1,145 +1,145 @@
 {
-  "generated_at": "2026-10-21 05:43:31",
+  "generated_at": "2026-10-22 05:45:28",
   "market": {
     "ihsg": {
-      "price": "5234",
-      "change": "-0.84",
-      "trend": "bearish"
+      "price": "5419",
+      "change": "1.7",
+      "trend": "bullish"
     },
     "regional": [
       {
         "name": "Nikkei",
-        "change": "1.09"
+        "change": "-2.34"
       },
       {
         "name": "HSI",
-        "change": "-0.44"
+        "change": "-3.07"
       },
       {
         "name": "STI",
-        "change": "0.9"
+        "change": "-0.13"
       },
       {
         "name": "S&P Fut",
-        "change": "0.31"
+        "change": "-0.79"
       }
     ],
     "sectorRotation": [
       {
         "name": "Basic-Ind",
-        "change": "-0.68",
+        "change": "1.65",
         "stocks": [
           {
             "ticker": "ANTM",
-            "change": "-1.82"
+            "change": "4.04"
           },
           {
             "ticker": "BRMS",
-            "change": "-0.93"
+            "change": "0.9"
           },
           {
             "ticker": "BRPT",
-            "change": "0.7"
+            "change": "0.0"
           }
         ]
       },
       {
         "name": "Cyclical",
-        "change": "0.17",
+        "change": "3.1",
         "stocks": [
           {
             "ticker": "MNCN",
-            "change": "5.88"
+            "change": "4.49"
           },
           {
             "ticker": "SCMA",
-            "change": "-1.95"
+            "change": "0.65"
           },
           {
             "ticker": "MINA",
-            "change": "-3.42"
+            "change": "4.17"
           }
         ]
       },
       {
         "name": "Energy",
-        "change": "-1.39",
+        "change": "3.4",
         "stocks": [
           {
             "ticker": "ADRO",
-            "change": "-1.25"
+            "change": "1.67"
           },
           {
             "ticker": "BUMI",
-            "change": "-4.44"
+            "change": "6.67"
           },
           {
             "ticker": "PGAS",
-            "change": "1.53"
+            "change": "1.87"
           }
         ]
       },
       {
         "name": "Health",
-        "change": "1.17",
+        "change": "2.5",
         "stocks": [
           {
             "ticker": "KLBF",
-            "change": "0.0"
+            "change": "2.88"
           },
           {
             "ticker": "SIDO",
-            "change": "1.23"
+            "change": "2.98"
           },
           {
             "ticker": "KAEF",
-            "change": "2.27"
+            "change": "1.64"
           }
         ]
       },
       {
         "name": "Finance",
-        "change": "-0.64",
+        "change": "1.01",
         "stocks": [
           {
             "ticker": "BBCA",
-            "change": "-0.48"
+            "change": "-0.47"
           },
           {
             "ticker": "BBRI",
-            "change": "-0.36"
+            "change": "1.07"
           },
           {
             "ticker": "BMRI",
-            "change": "-1.08"
+            "change": "2.43"
           }
         ]
       },
       {
         "name": "Industrial",
-        "change": "-3.04",
+        "change": "0.58",
         "stocks": [
           {
             "ticker": "ASII",
-            "change": "-1.11"
+            "change": "0.22"
           },
           {
             "ticker": "UNTR",
-            "change": "-2.05"
+            "change": "0.31"
           },
           {
             "ticker": "IMPC",
-            "change": "-5.95"
+            "change": "1.2"
           }
         ]
       },
       {
         "name": "Infrastruktur",
-        "change": "-0.93",
+        "change": "1.42",
         "stocks": [
           {
             "ticker": "TLKM",
-            "change": "0.97"
+            "change": "1.89"
           },
           {
             "ticker": "ADHI",
@@ -147,31 +147,31 @@
           },
           {
             "ticker": "CDIA",
-            "change": "-3.76"
+            "change": "2.38"
           }
         ]
       },
       {
         "name": "Transport",
-        "change": "-2.55",
+        "change": "3.6",
         "stocks": [
           {
             "ticker": "PJHB",
-            "change": "0.78"
+            "change": "3.91"
           },
           {
             "ticker": "GIAA",
-            "change": "-6.82"
+            "change": "4.76"
           },
           {
             "ticker": "SMDR",
-            "change": "-1.62"
+            "change": "2.12"
           }
         ]
       },
       {
         "name": "Technology",
-        "change": "-2.9",
+        "change": "0.78",
         "stocks": [
           {
             "ticker": "GOTO",
@@ -179,11 +179,11 @@
           },
           {
             "ticker": "WIFI",
-            "change": "-6.94"
+            "change": "0.0"
           },
           {
             "ticker": "EMTK",
-            "change": "-1.75"
+            "change": "2.35"
           }
         ]
       },
@@ -193,41 +193,41 @@
         "stocks": [
           {
             "ticker": "UNVR",
-            "change": "0.0"
+            "change": "5.11"
           },
           {
             "ticker": "INDF",
-            "change": "0.38"
+            "change": "-0.38"
           },
           {
             "ticker": "ICBP",
-            "change": "4.76"
+            "change": "0.41"
           }
         ]
       },
       {
         "name": "Property",
-        "change": "0.55",
+        "change": "1.6",
         "stocks": [
           {
             "ticker": "CTRA",
-            "change": "0.92"
+            "change": "1.75"
           },
           {
             "ticker": "PWON",
-            "change": "0.74"
+            "change": "0.0"
           },
           {
             "ticker": "BSDE",
-            "change": "0.0"
+            "change": "3.06"
           }
         ]
       }
     ]
   },
   "extras": {
-    "usdIdr": 17973,
-    "gold": 4144.0,
+    "usdIdr": 18040,
+    "gold": 4104.0,
     "oil": 99.0
   }
 }
